@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ /iotkunci/index.php [L]
